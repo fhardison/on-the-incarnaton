@@ -11,10 +11,13 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 ## Contributors
 
 * Fletcher Hardison
+* [Nathan Binns](n_binns@hotmail.com)
 
 ## Source
 
-The scan of the of the text is [Migne vol 025.](http://patristica.net/graeca/#t025) found on pages 332-383 of the [Google Ebook](https://books.google.com/books?id=_A0RAAAAYAAJ) which is in the `orig` folder.
+The scan of the of the text is [Migne vol 025.](http://patristica.net/graeca/#t025) found on pages 332-383 of the [Google Ebook](https://books.google.com/books?id=_A0RAAAAYAAJ).
+
+Τhe OCR results were sometimes checked against `De Incarnatione Verbi.pdf` which is in the `orig` folder as it was much easier to read. (Thanks to Nathan Binns for finding a better scan of the text.)
 
 ## Progress
 
