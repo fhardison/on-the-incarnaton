@@ -10,7 +10,7 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 
 ## Contributors
 
-* Fletcher Hardison
+* [Fletcher Hardison](fhardison@gmail.com)
 * [Nathan Binns](n_binns@hotmail.com)
 
 ## Source
@@ -21,7 +21,7 @@ The scan of the of the text is [Migne vol 025.](http://patristica.net/graeca/#t0
 
 ## Progress
 
-OCR and spell checked: 1, 2, 11, 12
+OCR'ed and spell checked: 1-5, 11, 12
 
 
 

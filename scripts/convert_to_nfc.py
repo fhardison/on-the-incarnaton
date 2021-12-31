@@ -12,7 +12,6 @@ REPLACEMENTS = [
     ('\u1FBF', '\u2019'),
     ('\r\n', '\n'),
     ('\u0387', '\u00B7'),
-    ('\u0387', '\u00B7')
 ]
 
 
@@ -22,9 +21,9 @@ def process(ifile):
     with open(ifile, 'r', encoding="UTF-8") as f:
         text = f.read()
         for (t, r) in REPLACEMENTS:
-            converted = text.replace(t,r)
+            text = text.replace(t,r)
         
-    text = nfc(converted)
+    text = nfc(text)
     with open(ifile, 'w', encoding="UTF-8") as f:
         f.write(text)
     convert_line_endings(ifile)
