@@ -2,7 +2,7 @@
 
 This project's goal is to publish a digital transcription of _On the Incarnation_ by St. Athanasius of Alexandria.
 
-The text was OCR'ed using [Tesseract OCR engine](https://github.com/tesseract-ocr/tesseract). It was then spell checked using [Titivillus](http://www.drouizig.org/index.php/fr/degemer-fr/actualites/368-the-classicist-s-spellchecker-v1-0) in Microsoft Word or the [Ancient Greek Spellchecker](https://extensions.libreoffice.org/en/extensions/show/ancientgreek) for LibreOffice before being put into a text file in the `checked` folder. 
+The text was OCR'ed using [Tesseract OCR engine](https://github.com/tesseract-ocr/tesseract). It was then spell checked using [Titivillus](http://www.drouizig.org/index.php/fr/degemer-fr/actualites/368-the-classicist-s-spellchecker-v1-0) in Microsoft Word or the [Ancient Greek Spellchecker](https://extensions.libreoffice.org/en/extensions/show/ancientgreek) for LibreOffice before being put into a text file in the `text` folder. 
 
 There may still be errors as each word has not been checked against the PDF, but the spell checkers have caught so many errors that I have not felt the need to look for more at present. Please report any you find.
 
