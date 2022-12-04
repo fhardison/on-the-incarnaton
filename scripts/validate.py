@@ -5,7 +5,7 @@ TEXTS = Path('../text')
 
 files = list(TEXTS.glob('**/*.txt'))
 
-nums = [f"{num:02d}" for num in range(1,24)]
+nums = [f"{num:02d}" for num in range(1,25)]
 
 check = ["26"] + nums
 
