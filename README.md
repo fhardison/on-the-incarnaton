@@ -21,6 +21,8 @@ The scan of the of the text is [Migne vol 025.](http://patristica.net/graeca/#t0
 
 OCR complete.
 
+Initial Lemmatization done using CLTK, but has not been manually checked.
+
 
 
 ## License
