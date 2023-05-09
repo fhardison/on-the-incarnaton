@@ -16,6 +16,6 @@ for f in files:
 
 output = markdown2.markdown('\n'.join([x[1] for x in sorted(buffer, key=lambda x: x[0])]))
 
-template = Path('./rouse.html').read_text().replace('$body$', output)
+template = Path('./rouse.html').read_text().replace('$body$', "<p style='text-align:center;'><a href='https://amindforlanguage.com/on-the-incarnaton/interlinear.html'>Interlinear</a></p>\n" + output)
 
 (DOCS / Path("on-the-incarnation.html")).write_text(template)
